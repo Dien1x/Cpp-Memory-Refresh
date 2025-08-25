@@ -1,4 +1,4 @@
-01. (String)
+01. (String)/n
 Learn the foundations of object-oriented programming in C++ with memory management and operator overloading, applied through a custom STRING class.
 Specifically:
   a. Classes & Objects: how to define a class with private data and public methods.
